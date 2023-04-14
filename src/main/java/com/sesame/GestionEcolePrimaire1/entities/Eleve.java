@@ -17,7 +17,7 @@ public class Eleve {
 	  private Long id;
 	  private String nom;
 	  private String prenom;
-	  private Number classe;
+	  private String classe;
 	  		
 		
 }
